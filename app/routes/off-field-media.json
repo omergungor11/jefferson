@@ -1,0 +1,229 @@
+{
+  "features": [
+    {
+      "id": "netflix",
+      "nav": "Netflix",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/65d26eca21a0cc06252394445e0dcb85e1110c18-430x1000.png",
+        "width": 430,
+        "height": 1000,
+        "alt": "Netflix"
+      },
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/07d183c764a4abadf05bf80b4bce247ba15384d3-1456x781.webp",
+        "width": 1456,
+        "height": 781,
+        "alt": "Justin Jefferson taking a selfie with the cast of Receiver at the Netflix premiere",
+        "caption": "One of five pass-catchers profiled in “Receiver” — eight episodes from NFL Films and Omaha Productions following his 2023 season, premiered July 10, 2024.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/e5740270-d0be-46d5-8768-98e679570882/play_360p.mp4#sanity=zil8k06j/production/cc38993b55ba16d13665a22b7a298f111b2e0e57.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/21d46a07-23ff-4ba8-92a6-5152fdd52b8f/play_720p.mp4#sanity=zil8k06j/production/9c577bc0737795543293b286d2326a215ee34ae6.mp4"
+      }
+    },
+    {
+      "id": "espn-cover-story",
+      "nav": "ESPN Cover Story",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/cac58fcb128cbdc4955dd653634dc5912452a570-1664x1000.png",
+        "width": 1664,
+        "height": 1000,
+        "alt": "ESPN"
+      },
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/7a2be94c9b23e3b53d41c0e9ab1b20551634e9b8-1456x819.webp",
+        "width": 1456,
+        "height": 819,
+        "alt": "Justin Jefferson holding a basketball on the orange ESPN Cover Story set",
+        "caption": "Twice an ESPN Cover Story — the 2022 original on the Griddy era, then relaunching the franchise with Anthony Edwards in 2024, recreating the iconic Garnett–Moss magazine cover.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/84417093-9ab1-4ffb-8028-c3f55f16a366/play_360p.mp4#sanity=zil8k06j/production/c5e5c59e6b8fbffd267f617d977078a7422d039c.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/e5352b28-7f30-42eb-b58e-2b5a25a1da78/play_720p.mp4#sanity=zil8k06j/production/0ea86fae83d5d3d045d13237803791bc83d56cc4.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/e5352b28-7f30-42eb-b58e-2b5a25a1da78/play_480p.mp4#sanity=zil8k06j/production/0ea86fae83d5d3d045d13237803791bc83d56cc4.mp4"
+      }
+    },
+    {
+      "id": "the-undercovers",
+      "nav": "The Undercovers",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/ecc09261097c965c8a59fa3e73ead0a5c9b4982d-776x1000.png",
+        "width": 776,
+        "height": 1000,
+        "alt": "Prime Video"
+      },
+      "logoText": "Prime Video",
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/042337a14e138fdf3970cefce21313aa3c50e721-1456x819.webp",
+        "width": 1456,
+        "height": 819,
+        "alt": "Justin Jefferson beside his prosthetic-disguised alter ego on the key art for Eli Manning Presents: The Undercovers",
+        "caption": "Buried under movie-grade prosthetics for “Eli Manning Presents: The Undercovers” — going undercover to prank unsuspecting fans on Prime Video.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/1b98c7a0-a4c6-432a-9c2b-8d30f9089d40/play_720p.mp4#sanity=zil8k06j/production/9fce703331788c44bd78732ce5981fa8f3bad690.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/95107f9a-1358-4761-9ec8-b5bc7d43abb8/play_720p.mp4#sanity=zil8k06j/production/37f67ca75a0db37c9cdbd39b6f974c88db40cbe8.mp4"
+      }
+    },
+    {
+      "id": "getyourguide-rome",
+      "nav": "GetYourGuide Rome",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/825a48115f8dd125d2338e0d8e6e344d53735a53-1030x1000.png",
+        "width": 1030,
+        "height": 1000,
+        "alt": "GetYourGuide"
+      },
+      "logoText": "GetYourGuide",
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/304e4df85dc117ecead2365c6f8c8ce72143f2ce-1280x720.webp",
+        "width": 1280,
+        "height": 720,
+        "alt": "Justin Jefferson and his mom Elaine in a vintage Fiat on their GetYourGuide tour of Rome",
+        "caption": "A mother-son Roman holiday with GetYourGuide — a private Vatican tour and vintage-Fiat laps with mom Elaine, picked up by Essence and Condé Nast Traveler.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/2e0a3272-1ed0-4d79-a395-6f2657e838d5/play_720p.mp4#sanity=zil8k06j/production/11a0088d51b19c04f3be5a6eb78a82b771b6d7bf.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/080343f0-54da-4a37-882e-fc40b9a37c1a/play_720p.mp4#sanity=zil8k06j/production/d2399a6dc8d2c51ff520440d9f20672f1da296a7.mp4"
+      }
+    },
+    {
+      "id": "going-global",
+      "nav": "Going Global",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/d742b42323fbe9a0d3617ebd73ad17f49f6f0437-726x1000.png",
+        "width": 726,
+        "height": 1000,
+        "alt": "NFL"
+      },
+      "logoText": "NFL",
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/719e6ae9f27a13d913a2a93d62db604e24dce4a8-1280x720.webp",
+        "width": 1280,
+        "height": 720,
+        "alt": "Justin Jefferson in a Vikings jersey in front of Christ the Redeemer on the NFL Going Global title card",
+        "caption": "Fronting the NFL's “Going Global” series in Brazil — an all-access ambassador trip as the league pushes into South America.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/fe67b9ae-d14d-4d20-803e-31b85fadeef5/play_360p.mp4#sanity=zil8k06j/production/8b07a78156c40daec2dbf9ed95d7ab58181a1c1b.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/4e6637c2-52f4-4264-9ebe-41728dc52795/play_720p.mp4#sanity=zil8k06j/production/f3c90875cdaab736371d6013e5de66af9685e151.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/4e6637c2-52f4-4264-9ebe-41728dc52795/play_480p.mp4#sanity=zil8k06j/production/f3c90875cdaab736371d6013e5de66af9685e151.mp4"
+      }
+    },
+    {
+      "id": "gq-sports",
+      "nav": "GQ Sports",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/bf7321de593e4dd68c366b8991df8b66964c7e47-1128x1000.png",
+        "width": 1128,
+        "height": 1000,
+        "alt": "GQ"
+      },
+      "logoText": "GQ",
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/a7106dbd9a605ac4276242c2fbe4cc2d282e583f-1600x1066.webp",
+        "width": 1600,
+        "height": 1066,
+        "alt": "Justin Jefferson in an editorial studio shoot",
+        "caption": "A recurring GQ Sports subject — “My First Million,” “10 Things,” and the London tunnel-fit breakdown that crowned him the NFL's best-dressed.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/1c9937e8-fa05-45c2-b119-7d8daf8b124b/play_360p.mp4#sanity=zil8k06j/production/370e5ff53624a1b67d1f9ae8eba02e98946eb6b0.mp4",
+        "playUrl": "https://cdn.sanity.io/files/zil8k06j/production/ecb6b939932736dee930c8596a9381f6b9aa3cbd.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/5bae42fd-1870-41f7-8120-97f27f4e650f/play_480p.mp4#sanity=zil8k06j/production/ecb6b939932736dee930c8596a9381f6b9aa3cbd.mp4"
+      }
+    },
+    {
+      "id": "under-armour-doc",
+      "nav": "Under Armour Doc",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/f75dce5e2a40586cf76f030b3541e3a7ed5ebb70-894x1000.png",
+        "width": 894,
+        "height": 1000,
+        "alt": "Under Armour"
+      },
+      "logoText": "Under Armour",
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/b29d10f802fbe2f9e0fe41923d0c5a9201544f10-1500x1125.webp",
+        "width": 1500,
+        "height": 1125,
+        "alt": "Justin Jefferson hosting his Under Armour Flight School camp",
+        "caption": "Fronted Under Armour's revived “Protect This House” film, shot in St. Rose, and the Flight School community films that followed.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/39e6612c-cf28-477f-b1ec-0899e4dc570e/play_720p.mp4#sanity=zil8k06j/production/f5f80869cf91631fce5e042151379e098a10f297.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/64955420-1998-48e8-98fd-62dc4e687e93/play_720p.mp4#sanity=zil8k06j/production/634a643dd8fc6483ed27541b7122a8e3033ff32a.mp4"
+      }
+    },
+    {
+      "id": "a-football-life",
+      "nav": "A Football Life",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/19202796e625ee1278c06845888b4c20c536ca4e-1266x1000.png",
+        "width": 1266,
+        "height": 1000,
+        "alt": "NFL Films"
+      },
+      "logoText": "NFL Films",
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/0a3f093e70707f141d7a209120b252bc2a32f0d1-1121x1400.webp",
+        "width": 1121,
+        "height": 1400,
+        "alt": "Justin Jefferson at an event appearance",
+        "caption": "“A Football Life: Origins” (2024) — NFL Films on the climb from two-star recruit to the most productive young receiver in league history.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/ca044620-f4cf-4da6-8477-9117b1092a13/play_360p.mp4#sanity=zil8k06j/production/97df575d7a597e9d28e7111a8f62639adcf45b40.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/fed3623f-4fe2-4bc7-898b-a3ff893c04aa/play_720p.mp4#sanity=zil8k06j/production/b9e88c722478c5e298402d90825fa3b2bebd3e44.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/fed3623f-4fe2-4bc7-898b-a3ff893c04aa/play_480p.mp4#sanity=zil8k06j/production/b9e88c722478c5e298402d90825fa3b2bebd3e44.mp4"
+      }
+    },
+    {
+      "id": "mic-d-up",
+      "nav": "Mic'd Up",
+      "logoImg": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/19202796e625ee1278c06845888b4c20c536ca4e-1266x1000.png",
+        "width": 1266,
+        "height": 1000,
+        "alt": "NFL Films"
+      },
+      "logoText": "NFL Films",
+      "media": {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/d3e033e240d85dddfbced35e0dab1491bad7be84-1200x1500.webp",
+        "width": 1200,
+        "height": 1500,
+        "alt": "Black-and-white portrait of Justin Jefferson in shades",
+        "caption": "A recurring NFL Films Mic'd Up favorite — wired for Monday Night Football and the sideline moments that keep going viral.",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/f97601e7-9d74-43d8-9be2-4294a473088d/play_720p.mp4#sanity=zil8k06j/production/598bbd99fb1b0f567928663a6c98f0492a72c31d.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/175d1c00-2dd3-4305-8579-6d6d16dd3e67/play_720p.mp4#sanity=zil8k06j/production/fbfedcb7565e2296a89b5e2ff8c305083e555ae0.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/175d1c00-2dd3-4305-8579-6d6d16dd3e67/play_480p.mp4#sanity=zil8k06j/production/fbfedcb7565e2296a89b5e2ff8c305083e555ae0.mp4"
+      }
+    }
+  ],
+  "appearances": [
+    {
+      "title": "Justin Jefferson on The Pat McAfee Show",
+      "video": "https://vz-e818877b-c14.b-cdn.net/caa1b75c-aa9a-43be-a13f-ea258f217ae9/play_720p.mp4#sanity=zil8k06j/production/e85f67ec2aeddc62b97ab5363f10eb6882b94bc3.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/f426e692eff914a0b458217b55d975ce4f10a6c9-1280x720.jpg"
+    },
+    {
+      "title": "Justin Jefferson interviewed on The Rich Eisen Show",
+      "video": "https://vz-e818877b-c14.b-cdn.net/6fbb33a8-77f8-478d-91d6-a7b93865da45/play_720p.mp4#sanity=zil8k06j/production/2b26fc2949d65de123296d57335846a7ebf35bed.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/2c1bda8be908acf3e0148bb239a13f382a403fc7-1280x720.jpg"
+    },
+    {
+      "title": "Justin Jefferson with Kay Adams on the Up & Adams Show",
+      "video": "https://vz-e818877b-c14.b-cdn.net/3953ba1b-8734-4a07-8f02-9e3c33cf2892/play_720p.mp4#sanity=zil8k06j/production/9154fe9fca596724c4ba104311f6a7b459f59f2a.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/88a25c1f315b931ab7531cbb50cece22502e5be9-1280x720.jpg"
+    },
+    {
+      "title": "Justin Jefferson in a Sundae Conversation with Caleb Pressley",
+      "video": "https://vz-e818877b-c14.b-cdn.net/08a3467a-1ff0-456d-84c0-a065c616880b/play_720p.mp4#sanity=zil8k06j/production/cc155fae5f6ff0525ac284a8ee96592080c84e45.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/07dca9ad577c4f7720e2bf37ae749706930a523a-1280x720.jpg"
+    },
+    {
+      "title": "Justin Jefferson weighing in on ESPN",
+      "video": "https://vz-e818877b-c14.b-cdn.net/779c6399-96d0-43e1-9263-4f377dd9a924/play_720p.mp4#sanity=zil8k06j/production/6b21d566d20dc55562670abb6e226f1e5fdb87dd.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/a25d2c6343032b16bf1289ac3985dc4ad7b27427-480x360.jpg"
+    },
+    {
+      "title": "Justin Jefferson on Pro Football Talk, NFL on NBC",
+      "video": "https://vz-e818877b-c14.b-cdn.net/aa35eb67-e7f1-45f8-976b-4a9cb917c744/play_720p.mp4#sanity=zil8k06j/production/5472918f78847fbec730b93f5e191c5f4b895871.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/5772b7465e0228f93e922dd95fbe6666e3ed06dd-1280x720.jpg"
+    },
+    {
+      "title": "Justin Jefferson breaking down the Vikings quarterbacks for USA Today",
+      "video": "https://vz-e818877b-c14.b-cdn.net/3b8279ff-a6c0-4531-bc5f-8b9791d64bf8/play_720p.mp4#sanity=zil8k06j/production/6279bd3c4d30b8d4cc2b8b823b66c297a5edeca6.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/8b744523fe1b9d9a1eaea75026850872c43cdfeb-1280x720.jpg"
+    },
+    {
+      "title": "Justin Jefferson on episode four of the BOS podcast",
+      "video": "https://vz-e818877b-c14.b-cdn.net/ca2e134c-2665-449d-bd82-61a51612195c/play_720p.mp4#sanity=zil8k06j/production/1d6297502a89e4e2e478b320f6d0431956580a26.mp4",
+      "poster": "https://cdn.sanity.io/images/zil8k06j/production/8da69b044a83edf7baa44d7aa58214210576126d-1280x720.jpg"
+    }
+  ]
+}

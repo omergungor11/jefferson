@@ -1,0 +1,202 @@
+{
+  "heroCopy": "From a St. Rose, Louisiana to the Met Gala runway. Every move Justin makes carries intention, style, and a story you don't see on the field.",
+  "cardCopy": "The 2020 first-round pick out of LSU who rewrote the record books — the rookie card that marked the start of a generational career.",
+  "heroVideo": "https://vz-e818877b-c14.b-cdn.net/67930c38-9688-44a9-a18c-abdd33993820/play_1080p.mp4",
+  "heroVideoMobile": "https://vz-e818877b-c14.b-cdn.net/67930c38-9688-44a9-a18c-abdd33993820/play_720p.mp4",
+  "quoteLines": [
+    "I want people to",
+    "remember me for",
+    "more than football"
+  ],
+  "quoteBody": "More than routes, more than records, more than the game itself. Writing a story that outlasts every snap, every season, every era.",
+  "quotePhotos": [
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a57b0b7671877659ae0c57e66bc187933990b546-1228x1694.webp",
+      "alt": "Justin Jefferson"
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6f3837e025163ee3969f58504c1e95fe4c586c59-1228x1694.webp",
+      "alt": "Justin Jefferson"
+    },
+    {
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/4879daa29584e835884dcaa44ee5abcca1937e95-1228x1694.webp",
+      "alt": "Justin Jefferson"
+    }
+  ],
+  "moments": [
+    {
+      "title": "The Peach Bowl",
+      "stat": "14 REC · 227 YDS · 4 TD",
+      "image": "https://cdn.sanity.io/images/zil8k06j/production/3f87e2e9f8ece228d78796a9d6cf13cd7bcd07b8-1036x1519.webp",
+      "video": "https://vz-e818877b-c14.b-cdn.net/df40c88a-9166-4ff6-a11c-e00e939b7afe/play_720p.mp4",
+      "videoMobile": "https://vz-e818877b-c14.b-cdn.net/df40c88a-9166-4ff6-a11c-e00e939b7afe/play_720p.mp4",
+      "preview": "https://vz-e818877b-c14.b-cdn.net/df40c88a-9166-4ff6-a11c-e00e939b7afe/play_480p.mp4"
+    },
+    {
+      "title": "Single Season Record",
+      "stat": "88 REC · 1,400 YDS · 7 TD",
+      "image": "https://cdn.sanity.io/images/zil8k06j/production/03d6c9eafd4617b664182954a83c507eb40b5245-1046x1503.webp",
+      "video": "https://vz-e818877b-c14.b-cdn.net/eae64093-2258-41fd-9e38-cc4921c7276c/play_720p.mp4",
+      "videoMobile": "https://vz-e818877b-c14.b-cdn.net/eae64093-2258-41fd-9e38-cc4921c7276c/play_720p.mp4",
+      "preview": "https://vz-e818877b-c14.b-cdn.net/eae64093-2258-41fd-9e38-cc4921c7276c/play_480p.mp4"
+    },
+    {
+      "title": "The Catch",
+      "stat": "4TH & 18 · 32-YARD ONE-HANDED GRAB",
+      "image": "https://cdn.sanity.io/images/zil8k06j/production/c2b96a5fec736475faad01463642b3b7c1885620-1036x1519.webp",
+      "video": "https://vz-e818877b-c14.b-cdn.net/4bdeef73-cb99-489a-af9b-590ccbd33886/play_720p.mp4",
+      "videoMobile": "https://vz-e818877b-c14.b-cdn.net/4bdeef73-cb99-489a-af9b-590ccbd33886/play_720p.mp4",
+      "preview": "https://vz-e818877b-c14.b-cdn.net/4bdeef73-cb99-489a-af9b-590ccbd33886/play_480p.mp4"
+    },
+    {
+      "title": "Offensive Player of the Year",
+      "stat": "128 REC · 1,809 YDS · 8 TD",
+      "image": "https://cdn.sanity.io/images/zil8k06j/production/7cbe65037e3972ee39b5dfb6d1a18a454d96fa2b-1039x1514.webp",
+      "video": "https://vz-e818877b-c14.b-cdn.net/2e11fb02-f0c0-4661-8c97-94961a64b1ac/play_720p.mp4",
+      "videoMobile": "https://vz-e818877b-c14.b-cdn.net/2e11fb02-f0c0-4661-8c97-94961a64b1ac/play_720p.mp4",
+      "preview": "https://vz-e818877b-c14.b-cdn.net/2e11fb02-f0c0-4661-8c97-94961a64b1ac/play_480p.mp4"
+    },
+    {
+      "title": "Pro Bowl Selection",
+      "stat": "4× Selection · 2020–2024",
+      "image": "https://cdn.sanity.io/images/zil8k06j/production/2accc8a2c65b6c18f8f6f49ef3c107f2b39c033d-1023x1537.webp",
+      "video": "https://vz-e818877b-c14.b-cdn.net/5e61be2e-3c28-440f-a7d0-9fa131bb4b7a/play_720p.mp4",
+      "videoMobile": "https://vz-e818877b-c14.b-cdn.net/5e61be2e-3c28-440f-a7d0-9fa131bb4b7a/play_480p.mp4",
+      "preview": "https://vz-e818877b-c14.b-cdn.net/5e61be2e-3c28-440f-a7d0-9fa131bb4b7a/play_480p.mp4"
+    }
+  ],
+  "foundation": {
+    "headline": "Building something that lasts",
+    "name": "The JJets Foundation",
+    "blurb": "Justin’s Foundation that delivers a true impact in the community.",
+    "ctaLabel": "Learn more",
+    "ctaUrl": "/foundation",
+    "gallery": [
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/e26ed2408b464bbc36944b18785e830a3758ea39-1440x1799.jpg",
+        "alt": "Justin with campers on the field"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/c1eae8189fd77787cb8bcf432938f0c8c0079463-1440x1800.jpg",
+        "alt": "Young athletes at the camp"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/23dee3e841e9d6fbdd807cdc89e2f2ca21a46eed-5472x3648.jpg",
+        "alt": "Justin Jefferson handing a young girl a backpack at the JJets Foundation Backpack Drive"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/670d95c473f2872e8700460bc598ecb8506b834b-1440x1799.jpg",
+        "alt": "Justin doing the griddy at youth camp"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/6c575444b48fe44b33c2dfe934feee8bdc35c8c0-7872x5038.jpg",
+        "alt": "Justin Jefferson with volunteers and families at the JJets Foundation Turkey Drive"
+      }
+    ]
+  },
+  "partners": [
+    {
+      "name": "Under Armour",
+      "description": "The signature partnership. Justin is the face of Under Armour football — custom game-day cleats, design sessions at UA headquarters in Baltimore, and a say in where the footwear goes next.",
+      "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/ac5710872c7f703f0a4f7d887ad30a6dd280fcdd-1200x1600.webp",
+      "heroImageAlt": "Under Armour"
+    },
+    {
+      "name": "Gatorade",
+      "description": "Long-running hydration partner, with Gatorade campaigns, sideline visibility, and a recurring slot in their game-day rotation.",
+      "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/6fa7c7fd07fdbf07119a115343881c3a9913963f-1067x1600.webp",
+      "heroImageAlt": "Justin Jefferson — Gatorade"
+    },
+    {
+      "name": "Pepsi",
+      "description": "National Pepsi campaigns — suiting up in the gladiator arena alongside Megan Thee Stallion and crashing tailgates with Josh Allen.",
+      "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/e27047dea6d62b0f3c470708df028751b2e18a50-2560x1936.webp",
+      "heroImageAlt": "Justin Jefferson in the blue Pepsi jumpsuit"
+    },
+    {
+      "name": "General Mills",
+      "description": "Cereal-box royalty — Cinnamon Toast Crunch covers, the limited-edition Griddy Toast Crunch, Justin's own Jettas Mix, and aisle-side spots with Terry Crews.",
+      "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/2c51604620a68eed0f583a35bed4b2266dd4d855-2223x1986.png",
+      "heroImageAlt": "Justin Jefferson's General Mills cereal boxes — Cinnamon Toast Crunch, Jettas Mix, and Griddy Toast Crunch"
+    },
+    {
+      "name": "Oakley",
+      "description": "Lifestyle and performance eyewear collaboration with Oakley, from training visors to off-field shades.",
+      "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/de38a31c07cb6c0920947ab8899e070fe5bfbcc5-1600x1600.webp",
+      "heroImageAlt": "Oakley"
+    },
+    {
+      "name": "Beats",
+      "description": "Game-day arrivals run through Beats — Powerbeats campaigns and the custom iced-out pairs Justin wears through the tunnel.",
+      "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/29faf3693f44c82175facdbea2a682c1639e9fb4-2000x1600.png",
+      "heroImageAlt": "Crystal-studded Beats Studio headphones with white sherpa ear cushions"
+    }
+  ],
+  "partnerLogos": [
+    {
+      "alt": "Under Armour",
+      "scale": 0.93,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Gatorade",
+      "scale": null,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Pepsi",
+      "scale": 1.1,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "General Mills",
+      "scale": 1.43,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Oakley",
+      "scale": 1.29,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Raising Cane's",
+      "scale": 2,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Beats by Dre",
+      "scale": 1.14,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Lowe's",
+      "scale": 1,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "U.S. Bank",
+      "scale": 0.79,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "EA Sports",
+      "scale": 1.21,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Little Caesars",
+      "scale": 0.9,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Abercrombie & Fitch",
+      "scale": 0.82,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png?w=512&fit=max&auto=format&q=80"
+    },
+    {
+      "alt": "Sleep Number",
+      "scale": 0.8,
+      "src": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png?w=512&fit=max&auto=format&q=80"
+    }
+  ]
+}

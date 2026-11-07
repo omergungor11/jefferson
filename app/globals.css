@@ -1,0 +1,102 @@
+@import url('https://use.typekit.net/asi3hwd.css');
+
+@font-face {
+  font-family: fontBody;
+  src: url('https://jjettas.com/_next/static/media/34310d7f0559b2f8-s.p.woff2') format('woff2');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: fontBody;
+  src: url('https://jjettas.com/_next/static/media/45f4bf9bd5d902fa-s.p.woff2') format('woff2');
+  font-display: swap;
+  font-weight: 800;
+}
+@font-face {
+  font-family: fontMono;
+  src: url('https://jjettas.com/_next/static/media/0ad3faa61cd26fd6-s.p.woff2') format('woff2');
+  font-display: swap;
+  font-weight: 500;
+}
+@font-face {
+  font-family: fontNuMono;
+  src: url('https://jjettas.com/_next/static/media/c39007f2e37cc928-s.p.otf') format('opentype');
+  font-display: swap;
+  font-weight: 400;
+}
+
+:root {
+  --font-body: fontBody, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-display: beachwood-variable, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: fontMono, ui-monospace, Menlo, monospace;
+  --font-numono: fontNuMono, var(--font-mono);
+  --color-ink: #0b0a0f;
+  --color-ink-deep: #171220;
+  --color-bone: #f4efe6;
+  --color-sand: #d3c8ba;
+  --color-smoke: #1e1a2a;
+  --color-purple-ink: #1a0e30;
+  --color-purple-deep: #2c1352;
+  --color-purple-rich: #4f2bab;
+  --color-purple-fog: #563b80;
+  --color-purple-shade: #251c34;
+  --color-purple-muted: #a9a1b5;
+  --color-lavender: #9e6de9;
+  --color-gold: #d4a24a;
+  --color-gold-bright: #f2c766;
+  --color-cta-yellow: #eeac1a;
+  --color-taupe-light: #f0e4d4;
+  --color-taupe: #b0a89d;
+  --color-taupe-deep: #746c62;
+  --ease-ui: cubic-bezier(.4, 0, .2, 1);
+  --ease-reveal: cubic-bezier(.16, 1, .3, 1);
+  --min-h: 700px;
+  --min-h-phone: 640px;
+  --content-max: 1728px;
+  --page-w: min(100vw, var(--content-max));
+  --page-x: max(0px, calc((100vw - var(--content-max)) / 2));
+  --vu: min(calc(var(--page-w) / 100), calc(1.8 * max(1vh, var(--min-h) / 100)));
+  --vu-fit: min(calc(var(--page-w) / 100), 1.8vh);
+  --pu: min(1vw, calc(.5 * max(1lvh, var(--min-h-phone) / 100)));
+  --pebble-tile: 480px;
+  --leather-tile: 560px;
+  --mat: 12px;
+  --texture-pebble: url('/textures/pebble.webp');
+  --texture-leather: url('/footer/texture.webp');
+  --texture-paper: url('/journal/paper.webp');
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { min-width: 0; scrollbar-width: none; }
+html::-webkit-scrollbar { display: none; }
+body {
+  margin: 0;
+  overflow-x: clip;
+  background: var(--color-ink);
+  color: var(--color-bone);
+  font: 400 clamp(15px, 1.05vw, 17px)/1.55 var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h4, p, figure { margin: 0; }
+a { color: inherit; text-decoration: none; }
+button, input, select, textarea { font: inherit; color: inherit; }
+button { background: none; border: 0; padding: 0; cursor: pointer; }
+img, video { display: block; max-width: 100%; }
+:focus-visible { outline: 2px solid var(--color-cta-yellow); outline-offset: 4px; }
+main:focus { outline: 0; }
+
+.display {
+  font-family: var(--font-display);
+  font-variation-settings: 'wdth' 50, 'wght' 700, 'slnt' 0;
+  font-weight: 700;
+  line-height: .84;
+  letter-spacing: -.01em;
+  padding-right: .03em;
+  text-transform: uppercase;
+}
+.heading { font-family: var(--font-body); font-weight: 800; letter-spacing: -.015em; line-height: 1.05; }
+.label-sm { font: 500 clamp(11px, .78vw, 13px)/1.5 var(--font-mono); letter-spacing: .16em; text-transform: uppercase; }
+
+@media (max-width: 767px), (max-width: 900px) and (pointer: coarse) {
+  :root { --pebble-tile: 340px; --leather-tile: 340px; --mat: 7px; }
+}

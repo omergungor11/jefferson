@@ -1,0 +1,866 @@
+[
+  {
+    "_id": "partnership.under-armour",
+    "brandLogoAlt": "Under Armour",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/9eeaff1c2111f7fa8797002445c619ad2aaa980e-480x304.png",
+    "category": "Fashion",
+    "description": "The signature partnership. Justin is the face of Under Armour football — custom game-day cleats, design sessions at UA headquarters in Baltimore, and a say in where the footwear goes next.",
+    "externalLink": null,
+    "featured": true,
+    "featuredOrder": 10,
+    "gallery": [
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/eac4130f974bf3a8d167cf2912610eea60746d16-4320x2880.jpg",
+        "width": 4320,
+        "height": 2880,
+        "alt": "Browsing the floor at Under Armour HQ"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/1d66186974d7ed2379fefbd754679ad7d430e938-4000x2667.jpg",
+        "width": 4000,
+        "height": 2667,
+        "alt": "Justin at the design table, cleat concepts laid out"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/de7dbff49c955b342a82c2e20d646096231f06f0-4000x2667.jpg",
+        "width": 4000,
+        "height": 2667,
+        "alt": "Reviewing designs with the Under Armour team"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Protect This House — Under Armour anthem spot",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/02452303-d3f7-4a54-ba77-801558aad050/play_720p.mp4#sanity=zil8k06j/production/3c9b750f43cdd4d8a1bd2e8129521ed5e123dca3.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/89bc307d-cd9a-46f2-8296-aff873b9f499/play_720p.mp4#sanity=zil8k06j/production/956454ca23d4bea5106216a7f3fbbb878263c933.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/7f61b788f11f5980dc2dde4f6ac3f123f3fa1bed-4000x2667.jpg",
+        "width": 4000,
+        "height": 2667,
+        "alt": "Sitting with the Under Armour football design crew"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/477450ef43fe6a3830b5ad077e8b5990ff9ea515-4000x2667.jpg",
+        "width": 4000,
+        "height": 2667,
+        "alt": "Talking product with the Under Armour designers"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/662d1bc0c750490e0d2668777bc6e470e122f84b-2880x4320.jpg",
+        "width": 2880,
+        "height": 4320,
+        "alt": "Prototype cleats across the table at UA HQ"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/114eb02eda28b7c1b4b2fe53edec9134092cc516-4320x2880.jpg",
+        "width": 4320,
+        "height": 2880,
+        "alt": "Justin with the Under Armour team"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson for Under Armour",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/32f60b78-093f-49e1-b6f9-6b73e4b1ddbd/play_720p.mp4#sanity=zil8k06j/production/749514dde4b4d9d9644ab9ad0c8bb042789e62d4.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/ead9de11-0830-41cf-9b61-60cb2e421356/play_720p.mp4#sanity=zil8k06j/production/58b75363a1bf5ff6c42e89ac6d7b9373eea34a7d.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/5c4e44bbddb8a9479222f89c94608e826245cf4c-4320x2880.jpg",
+        "width": 4320,
+        "height": 2880,
+        "alt": "All-hands selfie with the Under Armour staff"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/362ecbec4f5d84cbfb3decbfbb285cb6f6a531cb-4320x2880.jpg",
+        "width": 4320,
+        "height": 2880,
+        "alt": "On stage at the Under Armour campus visit"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/d8eb6e0780e3a92fbc97e61e7c0ed28573bd5d3d-4320x2880.jpg",
+        "width": 4320,
+        "height": 2880,
+        "alt": "Signing off the Under Armour campus visit"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/ba7299467e0884b34cb49757503290f21f0bf1e2-5306x6633.jpg",
+        "width": 5306,
+        "height": 6633,
+        "alt": "The chrome Under Armour cleats, paired"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/b005523d9d5afecd7620c2a276d33d84b5ff7b54-4320x2880.jpg",
+        "width": 4320,
+        "height": 2880,
+        "alt": "Under Armour campus visit"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Under Armour origins film — the St. Rose trophy haul",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/ba91f318-a18d-4c31-bf4b-236d70b7fd67/play_720p.mp4#sanity=zil8k06j/production/7099edd9408d52833fd4aa0bc0981fb957622813.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/ee995045-1de7-431c-9a77-d8d4e12b9804/play_720p.mp4#sanity=zil8k06j/production/1646b875c953b0289b3e05f6e5de6f2ad33feaee.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/fe37b05d38dc403be42386bedb016463b330041e-4320x2880.jpg",
+        "width": 4320,
+        "height": 2880,
+        "alt": "Under Armour campus visit"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/40012b53a62bdfdd758e5e80859e06e01df2ebfb-4000x2667.jpg",
+        "width": 4000,
+        "height": 2667,
+        "alt": "Under Armour campus visit"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/d43f75a06bcb45f61591a17ec10c4f2889b79a0c-2880x4320.jpg",
+        "width": 2880,
+        "height": 4320,
+        "alt": "Under Armour campus visit"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/ed868e639f855875375f17ea18eeb437951ce6c9-2326x3489.jpg",
+        "width": 2326,
+        "height": 3489,
+        "alt": "Under Armour campus visit"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/2a1d33237bd8664fc23225954849c16df54a84ca-4096x2728.jpg",
+        "width": 4096,
+        "height": 2728,
+        "alt": "Running routes at the UA Next camp"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/591dd74ce70efcc2c44e984fc820eca2be29aa03-2252x3153.jpg",
+        "width": 2252,
+        "height": 3153,
+        "alt": "The JJETAS zine with London On Da Track"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/30ce764b518b605f1d525df20e1fd78ce3a8ccd6-5306x6633.jpg",
+        "width": 5306,
+        "height": 6633,
+        "alt": "The chrome Under Armour cleat in profile"
+      }
+    ],
+    "heroImageAlt": "Under Armour",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/ac5710872c7f703f0a4f7d887ad30a6dd280fcdd-1200x1600.webp",
+    "homeHero": "custom",
+    "listOrder": 10,
+    "name": "Under Armour",
+    "slug": "under-armour",
+    "videoFirst": false,
+    "videoPreviewUrl": "https://vz-e818877b-c14.b-cdn.net/117a7505-bef3-4b23-8e19-9e73e08983d9/play_480p.mp4#sanity=zil8k06j/production/49d6dd8f19d6a7cff0ade86a0192e01fa89b3fc9.mp4",
+    "videoUrl": "https://vz-e818877b-c14.b-cdn.net/a6226ad6-724a-4beb-8923-f021bc92c1d0/play_480p.mp4#sanity=zil8k06j/production/5d99d34b3de3eea376a1b43e87679d5d3ed30081.mp4"
+  },
+  {
+    "_id": "partnership.gatorade",
+    "brandLogoAlt": "Gatorade",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/b779c0a86da7ba32d550b42cd4fd176112c3e704-3840x2160.png",
+    "category": "Beverage",
+    "description": "Long-running hydration partner, with Gatorade campaigns, sideline visibility, and a recurring slot in their game-day rotation.",
+    "externalLink": null,
+    "featured": true,
+    "featuredOrder": 20,
+    "gallery": [
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Gatorade spot with Justin Jefferson",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/16c0a4cc-7697-4f18-a97c-a6ef380ee656/play_720p.mp4#sanity=zil8k06j/production/785ab6eba3e45c437dbcebda3080b31bc80abb9d.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/60d5ad05-864d-4d74-94ec-17e11f16d65f/play_720p.mp4#sanity=zil8k06j/production/bcb2f0ebbcd67e7238dc4dd1a5b581f8b3b4d6fa.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/38fdd30d55404c16eace4e21986333bd11f6870b-1134x1419.png",
+        "width": 1134,
+        "height": 1419,
+        "alt": "Justin Jefferson in profile, purple Gatorade sweat beading on his face"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Gatorade social spot with Justin Jefferson",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/b7ba6684-7727-4449-91af-0b0f7aa3c94c/play_720p.mp4#sanity=zil8k06j/production/f2e327344d5ca862d78c04c78d722f0f084793c9.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/5c60b591-fad3-4bba-9bb5-575042c521c8/play_720p.mp4#sanity=zil8k06j/production/6dd72d36acc73cd44442d7ab3e2c55775f75e8e4.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/e5249f0485b25079ee5d510daf3fda9de578fe23-1134x1419.png",
+        "width": 1134,
+        "height": 1419,
+        "alt": "Justin in the retro Gatorade track jacket on Up & Adams"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson laughing between throws at Gatorade's indoor target range",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/db4600e6-4d27-46c8-bc4d-2b8ad7805cda/play_720p.mp4#sanity=zil8k06j/production/94460c42647fdb007080515496b2f371714ae4f4.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/1f0bbd61-f3e9-437b-ba90-1e392e0ab9be/play_1080p.mp4#sanity=zil8k06j/production/f9aaf413c062e7745db70eb082cdb14ab05d2ac4.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/1f0bbd61-f3e9-437b-ba90-1e392e0ab9be/play_720p.mp4#sanity=zil8k06j/production/f9aaf413c062e7745db70eb082cdb14ab05d2ac4.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson in shades taking Alex Day's questions on the Gatorade set",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/a36900a1-f605-4843-a692-8364bc78aba2/play_720p.mp4#sanity=zil8k06j/production/e3e49f82f6262bc878cf36765cd2ebf8ce9f792a.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/938efac9-b819-4939-846d-837e7014bc57/play_1080p.mp4#sanity=zil8k06j/production/1897a6fea77f24471c6f141fa16bc2e3d1acc3bd.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/938efac9-b819-4939-846d-837e7014bc57/play_720p.mp4#sanity=zil8k06j/production/1897a6fea77f24471c6f141fa16bc2e3d1acc3bd.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson pushing a weighted sled in a Fast Twitch training montage",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/2f4d13b8-27fc-46f1-975f-99245872035d/play_720p.mp4#sanity=zil8k06j/production/9e98a28d795179a07ed1edac83370c08421fd9b6.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/a7948305-d280-4cde-94e0-e1affaa48b8d/play_720p.mp4#sanity=zil8k06j/production/90763939061a47460f46cc82ee2dfcb7a8a897b2.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Creators run a blindfolded turf drill at Gatorade HQ, calling their best JJ impression",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/b7c63442-0462-4e15-b8f8-3443788df44d/play_720p.mp4#sanity=zil8k06j/production/d4cf726ca77b71ac3d2315e904713e8b27d8de9e.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/c9f63213-1ed1-4d8d-9cfc-51c8f9262a3b/play_720p.mp4#sanity=zil8k06j/production/bee5538cef26b6eb29b20ef17223a803e7d4f37f.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Hydration games on Gatorade's indoor turf — quizzes, spikes and a hydration meter",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/47f1281e-127e-4f8c-a5d8-a40e405be575/play_720p.mp4#sanity=zil8k06j/production/9615af97e87e50b9222c2f4d06eb9ac5e86baf33.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/0d7dc490-538b-4921-a0d2-7968e8b31a66/play_1080p.mp4#sanity=zil8k06j/production/4c9725e9910d6b2bf5d4b322f206b37cab1431c9.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/0d7dc490-538b-4921-a0d2-7968e8b31a66/play_720p.mp4#sanity=zil8k06j/production/4c9725e9910d6b2bf5d4b322f206b37cab1431c9.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson answers a quickfire round on Gatorade's orange set, Fast Twitch towel around his neck",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/b171c317-80ce-4525-877a-6c261cdb583b/play_720p.mp4#sanity=zil8k06j/production/52e5d7553fd1ca23d0d6c309a0648fbc1118476c.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/df91ecca-5ba4-4d96-b175-264fc2c8797c/play_720p.mp4#sanity=zil8k06j/production/5f2a4c9e7c141c8c27ab7641e1f2ad3d74ff6a59.mp4"
+      }
+    ],
+    "heroImageAlt": "Justin Jefferson — Gatorade",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/6fa7c7fd07fdbf07119a115343881c3a9913963f-1067x1600.webp",
+    "homeHero": "custom",
+    "listOrder": 20,
+    "name": "Gatorade",
+    "slug": "gatorade",
+    "videoFirst": null,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.pepsi",
+    "brandLogoAlt": "Pepsi",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/75f4f38f87df8cf9c852346a428258da840cb8e8-900x898.png",
+    "category": "Beverage",
+    "description": "National Pepsi campaigns — suiting up in the gladiator arena alongside Megan Thee Stallion and crashing tailgates with Josh Allen.",
+    "externalLink": null,
+    "featured": true,
+    "featuredOrder": 25,
+    "gallery": [
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Pepsi's Tailgate Crashers spot — Justin and Josh Allen swap jerseys for the blue Pepsi jumpsuits",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/376a5c1c-3b08-4dae-9e4e-cbe621d34fa5/play_720p.mp4#sanity=zil8k06j/production/bc1ae8ad5f026164122c005d108774fab7c200ea.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/0264ecb1-93c1-4c52-b7e9-e033512aec2a/play_1080p.mp4#sanity=zil8k06j/production/47463e62f608c76d72007a7410cd99f4e7690c95.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/0264ecb1-93c1-4c52-b7e9-e033512aec2a/play_720p.mp4#sanity=zil8k06j/production/47463e62f608c76d72007a7410cd99f4e7690c95.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/84b58730e443eb19fb353645afff156f47792ec8-1272x677.jpg",
+        "width": 1272,
+        "height": 677,
+        "alt": "Tailgate Crashers key art — Justin and Josh Allen in the blue Pepsi jumpsuits"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Pepsi x Gladiator II spot with SZA and the NFL gladiators",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/5b32f4af-e139-4fa6-82ad-5a169efbb833/play_360p.mp4#sanity=zil8k06j/production/12345e71d04253aafb6712110d0aa3f69a29cb37.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/d513d03e-d230-4ba0-afb1-49f9948b5998/play_360p.mp4#sanity=zil8k06j/production/1b894d12d2b872344f2a02c056361a8992407f05.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/01e34b7b45b19fc2bc898a807bf1ce862caa4c3b-3024x4032.jpg",
+        "width": 3024,
+        "height": 4032,
+        "alt": "On set for Pepsi x Gladiator II — SZA and the gladiators between takes"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Walking the Gladiator II Pepsi set",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/04716e9e-6ba7-4988-be8d-5008de7aae4e/play_720p.mp4#sanity=zil8k06j/production/34d00ed690dd34cf3b264f23f38ad9c69a5d8ec3.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/98d2cef3-7739-4e97-be90-31118852a5b8/play_720p.mp4#sanity=zil8k06j/production/5787eaf0527239abb52256802f3a3f3df563a349.mp4"
+      }
+    ],
+    "heroImageAlt": "Justin Jefferson in the blue Pepsi jumpsuit",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/e27047dea6d62b0f3c470708df028751b2e18a50-2560x1936.webp",
+    "homeHero": "image",
+    "listOrder": 25,
+    "name": "Pepsi",
+    "slug": "pepsi",
+    "videoFirst": false,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.general-mills",
+    "brandLogoAlt": "General Mills",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/85d204ad561aceaa24c53a72bf7efd82d28421fd-480x408.png",
+    "category": "Cereal",
+    "description": "Cereal-box royalty — Cinnamon Toast Crunch covers, the limited-edition Griddy Toast Crunch, Justin's own Jettas Mix, and aisle-side spots with Terry Crews.",
+    "externalLink": null,
+    "featured": true,
+    "featuredOrder": 30,
+    "gallery": [
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/2d62a54a7cfeb995fa70382c96aada799fc1c08c-2000x1319.jpg",
+        "width": 2000,
+        "height": 1319,
+        "alt": "Justin beside his Cinnamon Toast Crunch cereal box"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/352a8b8fd0d047bb8b2d43e1bfad0d85b006ea89-2048x2048.png",
+        "width": 2048,
+        "height": 2048,
+        "alt": "The limited-edition Griddy Toast Crunch box"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/6a2cc56009c754e36ccc423fb1c91b96708a0401-2048x2048.png",
+        "width": 2048,
+        "height": 2048,
+        "alt": "The Griddy box back — career highlights and Q&A"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/1b7473e80105f84795317ba9914c3f7d7f2f9e5e-1440x1800.jpg",
+        "width": 1440,
+        "height": 1800,
+        "alt": "Justin Jefferson's Jettas Mix cereal box"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/8bb45ba98687c7b50f25c99fb372acf3db9f94ea-3000x2000.jpg",
+        "width": 3000,
+        "height": 2000,
+        "alt": "Digging into a bowl of Cinnamon Toast Crunch on set"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/9e912c72dcf0a73f7913fd4a0d0555a793354bd9-1440x1440.jpg",
+        "width": 1440,
+        "height": 1440,
+        "alt": "Cereal night with the receivers — Lucky Charms and Cheerios in hand"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/f2e7ef3f99c7ef7dc4d8ae0d03f71061de8e317e-3000x2000.jpg",
+        "width": 3000,
+        "height": 2000,
+        "alt": "Hitting the griddy with the Cinnamon Toast Crunch square"
+      }
+    ],
+    "heroImageAlt": "Justin Jefferson's General Mills cereal boxes — Cinnamon Toast Crunch, Jettas Mix, and Griddy Toast Crunch",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/2c51604620a68eed0f583a35bed4b2266dd4d855-2223x1986.png",
+    "homeHero": "image",
+    "listOrder": 30,
+    "name": "General Mills",
+    "slug": "general-mills",
+    "videoFirst": false,
+    "videoPreviewUrl": "https://vz-e818877b-c14.b-cdn.net/77351573-decf-43ea-873c-7eec9185800f/play_720p.mp4#sanity=zil8k06j/production/4594d4905989736be512bc770a19b91ecf91c32e.mp4&phone=480",
+    "videoUrl": "https://vz-e818877b-c14.b-cdn.net/682c1738-0725-442b-9c06-eddc1d499b1d/play_1080p.mp4#sanity=zil8k06j/production/42532f2b122f828d1e547f73b657d4105cab816a.mp4",
+    "videoPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/682c1738-0725-442b-9c06-eddc1d499b1d/play_720p.mp4#sanity=zil8k06j/production/42532f2b122f828d1e547f73b657d4105cab816a.mp4"
+  },
+  {
+    "_id": "partnership.oakley",
+    "brandLogoAlt": "Oakley",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/09271aa8cb1971a8ad694ac9f7243f99f174a251-480x254.png",
+    "category": "Eye Wear",
+    "description": "Lifestyle and performance eyewear collaboration with Oakley, from training visors to off-field shades.",
+    "externalLink": null,
+    "featured": true,
+    "featuredOrder": 40,
+    "gallery": [
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Oakley teaser — something special is coming",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/ec839dcb-3f67-4d71-8174-da7f7d019de2/play_720p.mp4#sanity=zil8k06j/production/8fcbf6425e4422b1aca532b1773d288a641a4a44.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/c82bb20a-5663-471f-8f52-51f478b559f9/play_720p.mp4#sanity=zil8k06j/production/ac84fabcff4d7c9cad3482467d13d9fd7c0a8f55.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/9690ac92319026cd3cc8bf9d833da0782db0fd1e-1600x2400.jpg",
+        "width": 1600,
+        "height": 2400,
+        "alt": "Justin in blue Oakleys at the Oakley launch, eyewear cases in front"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/2271e26411e7f76dcaab66310b9488c88583b162-1600x2400.jpg",
+        "width": 1600,
+        "height": 2400,
+        "alt": "All smiles under the Oakley O in the blue Sphaeras"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/ced5838f07f9671daf2b0ce58e922f78d6f39fa8-1600x2400.jpg",
+        "width": 1600,
+        "height": 2400,
+        "alt": "Portrait in the blue Oakley Sphaeras and cream knit"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/112ea429abc4548abe660656405f16f4874369c8-1600x2400.jpg",
+        "width": 1600,
+        "height": 2400,
+        "alt": "Riding out in the Oakleys"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/be381dc70b8a2c2b207440cf5f7f1c243cfdd5ee-1600x2400.jpg",
+        "width": 1600,
+        "height": 2400,
+        "alt": "Justin wearing his oakleys"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/336c1db0efb5c8958c31508d27dbede8464744cb-1201x1500.webp",
+        "width": 1201,
+        "height": 1500,
+        "alt": "Justin wearing oakleys"
+      }
+    ],
+    "heroImageAlt": "Oakley",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/de38a31c07cb6c0920947ab8899e070fe5bfbcc5-1600x1600.webp",
+    "homeHero": "custom",
+    "listOrder": 40,
+    "name": "Oakley",
+    "slug": "oakley",
+    "videoFirst": false,
+    "videoPreviewUrl": "https://vz-e818877b-c14.b-cdn.net/b2dd6fe1-1486-46fd-bb47-b38ee9f7c0a2/play_720p.mp4#sanity=zil8k06j/production/35d4de72ff44a657c27ddcb2691c6fcbb3d2100f.mp4&phone=480",
+    "videoUrl": "https://vz-e818877b-c14.b-cdn.net/5a6411a7-99fd-48a9-b7c4-ef0a3fe04152/play_720p.mp4#sanity=zil8k06j/production/c4b2af8992a0a53f88e7a5a50817d75e63ab7637.mp4"
+  },
+  {
+    "_id": "partnership.raising-canes",
+    "brandLogoAlt": "Raising Cane's",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/678cbd2a6bb22010eadd90d55a32d0bf6295fc4a-360x361.png",
+    "category": "Brand Ambassador",
+    "description": "Brand ambassador for Raising Cane's — recurring presence in their NFL and Louisiana-pride campaigns.",
+    "externalLink": null,
+    "featured": false,
+    "featuredOrder": 50,
+    "gallery": [
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/e0c45d4415e0afcb1803600113258821600a888c-1280x1920.jpg",
+        "width": 1280,
+        "height": 1920,
+        "alt": "Raising Cane's at Justin Jefferson's Under Armour Flight School"
+      }
+    ],
+    "heroImageAlt": "Raising Cane's",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/eb085472f19420db5bdf0e35d8dfcf5c8596a1f3-1600x1067.webp",
+    "homeHero": "custom",
+    "listOrder": 50,
+    "name": "Raising Cane's",
+    "slug": "raising-canes",
+    "videoFirst": false,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.beats",
+    "brandLogoAlt": "Beats by Dre",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/d56dc6fe1088b09a5a8f6158d517d26db75ed846-480x480.png",
+    "category": "Audio",
+    "description": "Game-day arrivals run through Beats — Powerbeats campaigns and the custom iced-out pairs Justin wears through the tunnel.",
+    "externalLink": null,
+    "featured": true,
+    "featuredOrder": 50,
+    "gallery": [
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/f0cb4085e8af874e2cb2129a43a722da27170c6b-1170x1303.jpg",
+        "width": 1170,
+        "height": 1303,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/78ddcafc3c02342898da1a05b2a05fa5b85df3de-1170x1300.jpg",
+        "width": 1170,
+        "height": 1300,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/3c774a12877769edff4b4cda495be1ce7ca2ad1b-1170x1299.jpg",
+        "width": 1170,
+        "height": 1299,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/bce0abc0a667a206133281341060c030a9e6b416-1170x1300.jpg",
+        "width": 1170,
+        "height": 1300,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/33327a98e393a300a6bd28eb24088f1029ea6093-1170x1299.jpg",
+        "width": 1170,
+        "height": 1299,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/e5b39f1f79a242b66789c0c7151abac79b096938-1080x1433.jpg",
+        "width": 1080,
+        "height": 1433,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/416a1b38f91992673e30682f2ff3ffdd99d56083-1080x1432.jpg",
+        "width": 1080,
+        "height": 1432,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/8040f9da37dd09c81f581bf40bc7a6f5e3b26567-2880x1500.jpg",
+        "width": 2880,
+        "height": 1500,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/9b2fb31c1166e1cb24a716336d3f78f24ed6ff29-1170x1463.jpg",
+        "width": 1170,
+        "height": 1463,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/8e88f3ebd901404e9d6708a1e6fc02349201640d-1170x1463.jpg",
+        "width": 1170,
+        "height": 1463,
+        "alt": "justin jefferson in beats photoshoot"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/a4e18746634c70913a80ec0bdac8c6a565f895bf-1170x1463.jpg",
+        "width": 1170,
+        "height": 1463,
+        "alt": "justin jefferson in beats photoshoot"
+      }
+    ],
+    "heroImageAlt": "Crystal-studded Beats Studio headphones with white sherpa ear cushions",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/29faf3693f44c82175facdbea2a682c1639e9fb4-2000x1600.png",
+    "homeHero": null,
+    "listOrder": 60,
+    "name": "Beats",
+    "slug": "beats",
+    "videoFirst": false,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.loews",
+    "brandLogoAlt": "Lowe's",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/6b5c9aca7f15fb0bb3dd0c6c032d464e4f72f08a-480x211.png",
+    "category": "Home Improvement",
+    "description": "Part of Lowe's NFL roster — the league's official home-improvement partner.",
+    "externalLink": null,
+    "featured": false,
+    "featuredOrder": 70,
+    "gallery": [
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Lowe's 2025 commercial with Justin Jefferson",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/7dc21d12-e349-4c38-bdd6-2818245af85d/play_720p.mp4#sanity=zil8k06j/production/c5afabed8045d35369377dbfead6741be778f126.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/87dc146b-44e7-47bd-8790-f4e8e3d5c8a3/play_1080p.mp4#sanity=zil8k06j/production/78b2e08413318b9da6a3ce41a1a8d663a7ab8d13.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/87dc146b-44e7-47bd-8790-f4e8e3d5c8a3/play_720p.mp4#sanity=zil8k06j/production/78b2e08413318b9da6a3ce41a1a8d663a7ab8d13.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/e21de3516c0b7a292c5b3f6587c4d666fe4e5721-1170x1455.jpg",
+        "width": 1170,
+        "height": 1455,
+        "alt": "Justin Jefferson for NFL Home Team with Lowe's"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/60539e5722407e65b557ee98e9940457e3d517e3-1920x1128.jpg",
+        "width": 1920,
+        "height": 1128,
+        "alt": "Justin Jefferson in the Lowe's campaign"
+      }
+    ],
+    "heroImageAlt": "Lowe's",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/d7ffcaabc029594d44f80f0a2408057cc8cb7621-2248x1620.png",
+    "homeHero": null,
+    "listOrder": 70,
+    "name": "Lowe's",
+    "slug": "loews",
+    "videoFirst": false,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.us-bank",
+    "brandLogoAlt": "U.S. Bank",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/398ea5fdc827e2b9e5bf1491fa9fb47b50366336-480x121.png",
+    "category": "Finance",
+    "description": "Hometown banking partner — the name over the stadium Justin lights up on Sundays.",
+    "externalLink": null,
+    "featured": false,
+    "featuredOrder": 90,
+    "gallery": [
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/0c35e8aeccbccf62b4ecfc9a1bac79f1b63182ef-675x450.png",
+        "width": 675,
+        "height": 450,
+        "alt": "Justin Jefferson portrait for the U.S. Bank partnership"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson announcing the U.S. Bank partnership",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/250aca97-b3fe-472c-8cfe-8a113ac617bc/play_480p.mp4#sanity=zil8k06j/production/7be9345677a88a5fe5157c99cb99128689e904fe.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/2a0ab570-f779-4c1a-a94b-944a4573ddf3/play_480p.mp4#sanity=zil8k06j/production/acf08bebe063280cd4c027c0d363e08ece35b8ce.mp4"
+      }
+    ],
+    "heroImageAlt": "US Bank",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/d7ffcaabc029594d44f80f0a2408057cc8cb7621-2248x1620.png",
+    "homeHero": null,
+    "listOrder": 90,
+    "name": "US Bank",
+    "slug": "us-bank",
+    "videoFirst": true,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.ea-sports",
+    "brandLogoAlt": "EA Sports",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/b68d09d184687fd2ac2786b893a29432c1bf81f2-480x333.png",
+    "category": "Gaming",
+    "description": "A Madden fixture: repeat member of the 99 Club, the rating reserved for the game's very best.",
+    "externalLink": null,
+    "featured": false,
+    "featuredOrder": 100,
+    "gallery": [
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Madden clip featuring Justin Jefferson",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/02317b22-94b6-4fae-8ee6-df48a9cfcf09/play_360p.mp4#sanity=zil8k06j/production/838501407cf3d6495050f1595a3fe6ef44f54677.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/982d3bab-0170-4e20-befb-6ca550b12f95/play_360p.mp4#sanity=zil8k06j/production/3476e79fa17fb31926c54e31474f708aaeb39430.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/3346c2720d94936a9358988e3d78cb8789b1c8b8-2560x1440.png",
+        "width": 2560,
+        "height": 1440,
+        "alt": "Justin Jefferson in Madden"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/0a77c34921333d16d48f424ef32d2354065782b7-1080x1350.jpg",
+        "width": 1080,
+        "height": 1350,
+        "alt": "Madden's 99 Club ratings-update card for Justin"
+      }
+    ],
+    "heroImageAlt": "EA Sports",
+    "heroImageUrl": "https://cdn.sanity.io/images/zil8k06j/production/28e3c9727c63da0bc2e3b1487f4e988b6cd9cab3-1300x1300.webp",
+    "homeHero": null,
+    "listOrder": 100,
+    "name": "EA Sports",
+    "slug": "ea-sports",
+    "videoFirst": true,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.little-caesars",
+    "brandLogoAlt": "Little Caesars",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/2b3a243cc43691cb4bb9482c2d4c66e1e87c8870-776x195.png",
+    "category": "Food",
+    "description": "National campaign work with the pizza chain, from the \"One Day\" spot to the game-day promos.",
+    "externalLink": null,
+    "featured": false,
+    "featuredOrder": null,
+    "gallery": [
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson's Little Caesars commercial",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/af736c3e-aa45-4ba7-9b5c-446523f7e144/play_720p.mp4#sanity=zil8k06j/production/77d29cbcf2ff3ad07a044c549ae53486db49088c.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/c7b62c56-fe1c-45d8-8d19-67fb89e92fff/play_1080p.mp4#sanity=zil8k06j/production/723a041a5f8c7fe3b8cb5154db57c7c62459e4a8.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/c7b62c56-fe1c-45d8-8d19-67fb89e92fff/play_720p.mp4#sanity=zil8k06j/production/723a041a5f8c7fe3b8cb5154db57c7c62459e4a8.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/d585bce7def364ca94a00c7d55447e0987b9ba18-350x677.jpg",
+        "width": 350,
+        "height": 677,
+        "alt": "Justin Jefferson for Little Caesars"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "One Day — Little Caesars spot with Justin Jefferson",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/39b51058-d056-4f14-a09e-b56136b7eef8/play_720p.mp4#sanity=zil8k06j/production/cb77e8b1d3b72b072a8a04e940ef4ead6cd9662b.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/4db546b1-685f-4dbb-a372-348b7ce24f27/play_1080p.mp4#sanity=zil8k06j/production/bd1d8131aac2176be831a3209aa41f9b4bc4fbfa.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/4db546b1-685f-4dbb-a372-348b7ce24f27/play_720p.mp4#sanity=zil8k06j/production/bd1d8131aac2176be831a3209aa41f9b4bc4fbfa.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "It's not rocket science — Little Caesars game-day promo with Justin Jefferson",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/c58d7a8e-5e10-4ad4-8d67-3210bcfe33ba/play_720p.mp4#sanity=zil8k06j/production/187b9e9e8caa1462608da8ccf0ec9f2201e8c370.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/09b8647e-807e-41b8-b61b-d1f76a6e0cdb/play_720p.mp4#sanity=zil8k06j/production/14efb4d65f20a5e48aa6dd7c434ae3b72d45558c.mp4"
+      }
+    ],
+    "heroImageAlt": null,
+    "heroImageUrl": null,
+    "homeHero": null,
+    "listOrder": 110,
+    "name": "Little Caesars",
+    "slug": "little-caesars",
+    "videoFirst": true,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.abercrombie",
+    "brandLogoAlt": "Abercrombie & Fitch",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/a2bf34c68c407aa7a97262b9d8f0627c411458f3-738x270.png",
+    "category": "Fashion",
+    "description": "Face of the Fall 2026 NFL by Abercrombie campaign, the league's fashion collaboration with the brand.",
+    "externalLink": null,
+    "featured": false,
+    "featuredOrder": null,
+    "gallery": [
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson fronting the NFL by Abercrombie campaign",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/9e093392-1c10-4e5e-b0cd-0f06a7d771f6/play_720p.mp4#sanity=zil8k06j/production/255194b6096f8da803fbdd92b4ccd85e03dfde52.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/927b0bb7-2c68-4532-84ec-acbae39631fd/play_720p.mp4#sanity=zil8k06j/production/6755c5960b8aa111e31e0928e5b7a9b70c27361d.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/9fcea40d572129aa1be14c5c70e0e2061cdc298e-1080x1440.jpg",
+        "width": 1080,
+        "height": 1440,
+        "alt": "Justin Jefferson on set for the Fall 2026 NFL by Abercrombie campaign"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/03b619c986217914f2ed286c43d79eb42fd57588-1080x1440.jpg",
+        "width": 1080,
+        "height": 1440,
+        "alt": "Justin Jefferson between takes at the NFL by Abercrombie shoot"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "On set at the Fall 2026 NFL by Abercrombie campaign",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/6b7206b6-753b-4f8b-99e1-10da31d92fe2/play_720p.mp4#sanity=zil8k06j/production/4a6c2ef573b92e6155b0beaf3563299f76dbdd7d.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/00e08278-5b08-439c-a650-be2812f1033c/play_720p.mp4#sanity=zil8k06j/production/2f77c069d028bcd80aa839e10d1ee96c06bd5b2b.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/14bfa34903ee90f2ea57931cf8c51388c66f5d84-1080x1440.jpg",
+        "width": 1080,
+        "height": 1440,
+        "alt": "Justin Jefferson in the Fall 2026 NFL by Abercrombie collection"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Fitting looks at the NFL by Abercrombie campaign shoot",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/d68a3060-6899-400b-a656-d1c24a1ebc10/play_720p.mp4#sanity=zil8k06j/production/800b60797b9ec3ee6f61dfc54cff7c00be383f13.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/3f784e27-0421-490c-afc2-c3dbad91c0bc/play_720p.mp4#sanity=zil8k06j/production/024f75142f4263d4caf21e4bdccc0002e1fa8a85.mp4"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/7e106908e14ddd4fd2f0383a6e20e6d4a0058f56-1080x1440.jpg",
+        "width": 1080,
+        "height": 1440,
+        "alt": "Justin Jefferson posing for the NFL by Abercrombie campaign"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/f643b487b6db2d57451eb34c94ffea92d87abd57-1080x1440.jpg",
+        "width": 1080,
+        "height": 1440,
+        "alt": "Justin Jefferson closing the NFL by Abercrombie shoot"
+      }
+    ],
+    "heroImageAlt": null,
+    "heroImageUrl": null,
+    "homeHero": null,
+    "listOrder": 120,
+    "name": "Abercrombie & Fitch",
+    "slug": "abercrombie",
+    "videoFirst": true,
+    "videoPreviewUrl": null,
+    "videoUrl": null
+  },
+  {
+    "_id": "partnership.sleep-number",
+    "brandLogoAlt": "Sleep Number",
+    "brandLogoUrl": "https://cdn.sanity.io/images/zil8k06j/production/037a2684df77cfe8a1c21eca4987b19da40d6cd9-1600x261.png",
+    "category": "Sleep & Wellness",
+    "description": "Recovery starts at night — Sleep Number, the NFL's official sleep and wellness partner.",
+    "externalLink": null,
+    "featured": false,
+    "featuredOrder": null,
+    "gallery": [
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/bf0ee477426a60fb741060e0f292a43f9f263b8b-1280x720.jpg",
+        "width": 1280,
+        "height": 720,
+        "alt": "Justin Jefferson for Sleep Number"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/zil8k06j/production/271d3bed0f6a4ee2a77c658b89e6815e21162eeb-2000x1600.png",
+        "width": 2000,
+        "height": 1600,
+        "alt": "Justin Jefferson resting up with Sleep Number"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Night Owl vs. Early Bird with Justin Jefferson — Sleep Number episode four",
+        "loopUrl": "https://cdn.sanity.io/files/zil8k06j/production/2bab9c90ceef0ef88dd6d5806abd63d0cbd34307.mp4",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/0cb4e5d0-26f6-41ac-afe9-d7804579c6cb/play_720p.mp4#sanity=zil8k06j/production/de338cb8c147d89a4d6725fb7e0a206fa6d727d3.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson joking about sleeping instead of working out for Sleep Number",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/fb966465-cd61-42b2-ab91-7e2d435f3527/play_720p.mp4#sanity=zil8k06j/production/9f1f1bccedb66c1b699171fcb30663d74d38a62f.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/66988100-7820-4553-9289-aaff1b32c8ce/play_720p.mp4#sanity=zil8k06j/production/88f2bb32cc2bf3a1359c0f01a615836441d70b3a.mp4"
+      },
+      {
+        "src": "",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Justin Jefferson in his Vikings uniform in Sleep Number's film",
+        "loopUrl": "https://vz-e818877b-c14.b-cdn.net/8fde2c40-9c26-4d9c-b149-a2fd4e332d0f/play_720p.mp4#sanity=zil8k06j/production/af3d4d776bada32dd73d422330ca679d4f3613d3.mp4&phone=480",
+        "playUrl": "https://vz-e818877b-c14.b-cdn.net/653704ae-f550-4118-989e-a7cb765fd1c2/play_1080p.mp4#sanity=zil8k06j/production/7f919201dd2d484cafbf90277f1bf0c8d1001337.mp4",
+        "playPhoneUrl": "https://vz-e818877b-c14.b-cdn.net/653704ae-f550-4118-989e-a7cb765fd1c2/play_720p.mp4#sanity=zil8k06j/production/7f919201dd2d484cafbf90277f1bf0c8d1001337.mp4"
+      }
+    ],
+    "heroImageAlt": null,
+    "heroImageUrl": null,
+    "homeHero": null,
+    "listOrder": null,
+    "name": "Sleep Number",
+    "slug": "sleep-number",
+    "videoFirst": true,
+    "videoPreviewUrl": "https://vz-e818877b-c14.b-cdn.net/97c889ab-05ac-4203-89ba-c6df1a40b587/play_720p.mp4#sanity=zil8k06j/production/ca05028dd3676082ab7f2eaf4b28a252890ad386.mp4&phone=480",
+    "videoUrl": "https://vz-e818877b-c14.b-cdn.net/9e59d879-07db-4944-bd12-8d01000695da/play_720p.mp4#sanity=zil8k06j/production/d2539d3598e83b86d183cc6def89e83025962197.mp4"
+  }
+]

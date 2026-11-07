@@ -1,0 +1,12 @@
+.site-intro, .site-route-transition { position: fixed; inset: 0; z-index: 150; background: var(--color-ink-deep); pointer-events: none; }
+.site-intro { display: grid; place-items: center; color: #f6f3ef; transition: opacity .43s var(--ease-reveal); animation: site-route-in .4s ease 2.5s forwards; }
+.site-intro[data-finished] { opacity: 0; }
+.site-intro-mark { position: relative; width: 124px; }
+.site-intro-mark > svg { opacity: .18; }
+.site-intro-mark svg { display: block; width: 100%; }
+.site-intro-fill { position: absolute; inset: 0; }
+.site-intro-mark span { position: absolute; top: calc(100% + 20px); inset-inline: 0; text-align: center; font: 500 12px/1.2 var(--font-mono); letter-spacing: .2em; opacity: .5; }
+.site-route-transition { animation: site-route-in .55s var(--ease-reveal) both; }
+@keyframes site-route-in { from { opacity: 1; } to { opacity: 0; visibility: hidden; } }
+@media (max-width: 767px), (max-width: 900px) and (pointer: coarse) { .site-intro-mark { width: 96px; } }
+@media (prefers-reduced-motion: reduce) { .site-intro, .site-route-transition { display: none; } }
